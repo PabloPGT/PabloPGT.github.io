@@ -1,0 +1,30 @@
+*{
+    background-color: tomato;
+    font-size: 55px;
+}
+h2{
+    color:rosybrown;
+    font-size: 33%;
+    font-family: Verdana;
+
+}
+.clase{
+    color:skyblue;
+    font-size: 45px;
+}
+#nombre{
+    color: gray;
+    font-size: 37px;
+}
+p em{
+color: violet;
+}
+h3 + h4 {
+color:peru;
+
+}
+h5 [class] {
+
+    color:green;
+
+}

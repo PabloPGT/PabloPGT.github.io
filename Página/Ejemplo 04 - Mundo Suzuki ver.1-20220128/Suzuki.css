@@ -1,0 +1,36 @@
+body{
+ 
+    background: #696969 url('imagenes/bg_page.png')repeat-y fixed center;
+   
+}
+img{
+    outline: solid black medium;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 5%;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+
+h2{
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+}
+h3{
+    color: brown;
+    text-align: center;
+    text-shadow: 1px 1px 1px brown;
+}
+p{
+    color: gray;
+    text-align:justify;
+}
+#D{
+    width: 50%;
+    margin: 0 auto;
+    
+}

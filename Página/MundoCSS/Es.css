@@ -1,0 +1,30 @@
+h1{
+    color: teal;
+    outline:black medium dashed;
+    margin: auto;
+}
+p{
+    outline:green dotted thick;
+    margin: 50px;
+}
+h3{
+    outline:tomato solid medium;
+    margin: auto;
+}
+h2{
+    outline: deeppink double thick;
+    margin: auto;
+}
+#groove{
+    outline: yellow groove thick;
+}
+#ridge{
+    outline: violet ridge thick;
+}
+#inset{
+    outline: turquoise inset medium;
+
+}
+#outset{
+    outline: peru outset medium;
+}

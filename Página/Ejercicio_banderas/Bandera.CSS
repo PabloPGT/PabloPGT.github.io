@@ -1,0 +1,45 @@
+body{
+background-color: rgb(192, 158, 158);
+}
+div{
+    margin-bottom: 10px;
+    
+    display: inline-block;
+    height: 200px;
+    width: 280px;
+    box-shadow: 0px 20px 15px -15px;
+    border : solid 10px gray;
+}
+p{
+    text-align: center;
+    color: rgb(0, 204, 255);
+    text-shadow: 1px 1px 1px rgb(234, 27, 241);
+}
+
+#Colombia{
+    background: linear-gradient(yellow 50% , rgb(4, 0, 255) 50% 75% , red 75%) ;
+
+}
+#Francia{
+    background: linear-gradient(90deg, rgb(3, 3, 70) 33%, white 33% 66%, red 66% );
+
+}
+#Italia{
+    background: linear-gradient(90deg,rgb(1, 105, 1) 33%, white 33% 66% , red 66%);
+}
+#Japon{
+    background: radial-gradient(circle closest-side,red 55%, white 55% 100% );
+
+}
+#Alemania{
+    background: linear-gradient(black 33%, red 33% 66%, yellow 66%);
+
+}
+#Polonia{
+    background: linear-gradient(white 50%,red 50%);
+
+}
+#España{
+    background: linear-gradient(red 27%, yellow 27% 73%, red 27%);
+
+}
