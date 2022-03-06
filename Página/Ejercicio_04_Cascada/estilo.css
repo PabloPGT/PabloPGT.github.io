@@ -1,0 +1,39 @@
+#main{
+    overflow: auto;
+    width: 580px;
+    float: left ;
+}
+#sidebar{
+    padding: 15px;
+    background-color: #e9f5fe;
+    margin-left: 600px;
+
+}
+body{
+    color: #b1967c;
+    
+    padding-top: 100px;
+    width: 800px;
+    margin: 0px auto;
+    background-image: url(images/bg_body.png);
+    background-repeat: repeat-x;
+    background-color:  #cde6ff;
+
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2.2em;
+    color: #afc3d6;
+    margin-bottom: 5px;
+
+}
+.h2{
+    color: #e8a064;
+    border-bottom: 2px white solid;
+    background-image: url(images/bullet_flower.png);
+    background-repeat: no-repeat;
+    padding: 0px 0px 10px 80px;
+
+}
