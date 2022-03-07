@@ -1,0 +1,13 @@
+#padre{
+    border: 3px black solid;
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+
+}
+img{
+    border:  3px red solid;
+    padding: 27px 54px;
+    width: 585px;
+    height: 440px;
+}

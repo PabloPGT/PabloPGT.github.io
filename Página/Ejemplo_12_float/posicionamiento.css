@@ -1,0 +1,24 @@
+#foto1{
+    position: relative;
+    top: 10px;;
+}
+#foto2{
+    position: fixed;
+    top: 20px;
+    left: 10px;
+}
+#foto3{
+    position: absolute;
+    right: 100px;
+}
+#foto4{
+position: absolute;
+bottom: 100px;
+
+}
+#foto5{
+    float:left;
+}
+#foto6{
+    border: 10px red solid ;
+}

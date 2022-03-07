@@ -1,0 +1,29 @@
+body{
+    background: #d3d3d3;
+
+}
+#contenido{
+    width: 75%;
+    background: white;
+    margin: 0 auto;
+}
+h1{
+    font-family: Verdana;
+    font-size: 24px;
+    color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2{
+    font-family: Comic Sans MS;
+    font-size: 18px;
+    color: navy;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p{
+    font-family: Verdana;
+    font-size: 16px;
+    color: gray;
+    text-align: justify;
+}

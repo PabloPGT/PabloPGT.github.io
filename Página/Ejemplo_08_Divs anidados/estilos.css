@@ -1,0 +1,29 @@
+body{
+    background-color: #189121;
+}
+#caja1{
+    background-color: blueviolet;
+    width: 1000px;
+    
+    margin: 0 auto;
+    border: 20px red solid;
+    padding: 100px;
+    
+}
+#caja2{
+   
+    background-color: aliceblue;
+    border-radius: 10px;
+    border: 10px yellow solid;
+
+}
+p{
+    color: aqua;
+    text-shadow: black 1px 1px 1px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    border: 3px black dashed;
+    border-radius: 10px;
+    
+}

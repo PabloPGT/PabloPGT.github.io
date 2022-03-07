@@ -1,0 +1,43 @@
+
+	h1 {	
+		font-family: Verdana; 
+		font-size: 24px;
+		color: red;
+		margin-left: 20px;		}
+		
+	h2 {	
+		font-family: "Comic Sans MS"; 
+		font-size: 18px;
+		color: navy;
+		margin-left: 20px;		}
+		
+	p { 	
+		font-family: Verdana; 
+		font-size: 16px; 
+		color: gray;
+		text-align: justify;
+		margin-left: 20px;
+		margin-right: 20px;}
+
+	.impar {
+
+		font-size: xx-large;
+		color: brown;
+		font-style: italic;
+		text-transform: uppercase;
+	 }	
+			
+	.par {  
+		color: black;
+		font-size: xx-small;
+		text-shadow: red 1px 1px 1px;
+		text-transform: lowercase;
+		font-style: oblique;
+
+	}	
+
+	#ultimo {
+		 color :yellow;
+		 text-decoration: line-through;
+		 text-align: justify;
+	}	
