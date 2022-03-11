@@ -5,9 +5,12 @@ body{
 div{
     display: block;
     width: 25%;
-    background-color: aliceblue;
+    margin:auto;
+   /* background-color: aliceblue;
     box-shadow:  2px 5px 5px 1px;
+    
     outline: solid ,thin , black;
+    */
 }
 a:hover{
     
