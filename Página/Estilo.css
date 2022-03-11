@@ -26,6 +26,13 @@ a{
     text-align:center;
 
 }
-body{
-    background-color: rgb(224, 235, 131);
+h1{
+    color: red;
 }
+h2{
+    color: red;
+}
+h3{
+    color: red;
+}
+
