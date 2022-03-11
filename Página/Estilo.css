@@ -6,11 +6,13 @@ div{
     display: block;
     width: 25%;
     margin:auto;
-   /* background-color: aliceblue;
+    background-color: aliceblue;
     box-shadow:  2px 5px 5px 1px;
+    border:  solid 1px black;
+    border-radius: 10px;
+    padding: 5px;
     
-    outline: solid ,thin , black;
-    */
+   
 }
 a:hover{
     
@@ -28,17 +30,17 @@ a{
 
 }
 h1{
-    background-color: rgb(224, 235, 131);
+   
     color: red;
     
 }
 h2{
-    background-color: rgb(224, 235, 131);
+    
     color: red;
     text-align:center;
 }
 h3{
-    background-color: rgb(224, 235, 131);
+   
     color: red;
     text-align:center;
 }
