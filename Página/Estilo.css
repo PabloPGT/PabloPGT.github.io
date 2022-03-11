@@ -1,4 +1,7 @@
 
+body{
+    background-image: url(Internet_map_1024.jpg);
+}
 div{
     display: block;
     width: 25%;
